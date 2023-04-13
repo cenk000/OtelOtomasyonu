@@ -1,0 +1,31 @@
+C:\Users\cenk\source\repos\Otel Otomasyonu\Otel Otomasyonu\bin\Debug\Otel Otomasyonu.exe.config
+C:\Users\cenk\source\repos\Otel Otomasyonu\Otel Otomasyonu\bin\Debug\Otel Otomasyonu.exe
+C:\Users\cenk\source\repos\Otel Otomasyonu\Otel Otomasyonu\bin\Debug\Otel Otomasyonu.pdb
+C:\Users\cenk\source\repos\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel_Otomasyonu.Properties.Resources.resources
+C:\Users\cenk\source\repos\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel Otomasyonu.csproj.GenerateResource.cache
+C:\Users\cenk\source\repos\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\cenk\source\repos\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel Otomasyonu.exe
+C:\Users\cenk\source\repos\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel Otomasyonu.pdb
+C:\Users\cenk\source\repos\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel_Otomasyonu.Form2.resources
+C:\Users\cenk\source\repos\Otel Otomasyonu\Otel Otomasyonu\bin\Debug\MetroFramework.Design.dll
+C:\Users\cenk\source\repos\Otel Otomasyonu\Otel Otomasyonu\bin\Debug\MetroFramework.dll
+C:\Users\cenk\source\repos\Otel Otomasyonu\Otel Otomasyonu\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\cenk\source\repos\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel Otomasyonu.csproj.CopyComplete
+C:\Users\cenk\source\repos\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel_Otomasyonu.Girisekrani.resources
+C:\Users\cenk\source\repos\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel_Otomasyonu.Müsteriekle.resources
+C:\Users\cenk\source\repos\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel_Otomasyonu.Ekle.resources
+C:\Users\cenk\source\repos\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel_Otomasyonu.Odalar.resources
+C:\Users\cenk\source\repos\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel Otomasyonu.csprojAssemblyReference.cache
+C:\Users\cenk\source\repos\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel_Otomasyonu.Personel.resources
+C:\Users\cenk\source\repos\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel_Otomasyonu.YöneticiPaneli.resources
+C:\Users\cenk\source\repos\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel_Otomasyonu.YH.resources
+C:\Users\cenk\source\repos\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel_Otomasyonu.OdaListesi.resources
+C:\Users\cenk\source\repos\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel_Otomasyonu.Gelirgider.resources
+C:\Users\cenk\source\repos\Otel Otomasyonu\Otel Otomasyonu\bin\Debug\Otel Otomasyonu.exe.manifest
+C:\Users\cenk\source\repos\Otel Otomasyonu\Otel Otomasyonu\bin\Debug\Otel Otomasyonu.application
+C:\Users\cenk\source\repos\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel Otomasyonu.exe.manifest
+C:\Users\cenk\source\repos\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel Otomasyonu.application
+C:\Users\cenk\source\repos\Otel Otomasyonu\Otel Otomasyonu\bin\Debug\Otel Otomasyonu.mdf
+C:\Users\cenk\source\repos\Otel Otomasyonu\Otel Otomasyonu\bin\Debug\Otel Otomasyonu_log.ldf
+C:\Users\cenk\source\repos\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel_Otomasyonu.Hakkında.resources
+C:\Users\cenk\source\repos\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel_Otomasyonu.grafik.resources
